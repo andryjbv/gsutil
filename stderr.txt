@@ -1,0 +1,2101 @@
+gslib.tests.test_Doption (unittest.loader._FailedTest.gslib.tests.test_Doption) ... ERROR
+gslib.tests.test_acl (unittest.loader._FailedTest.gslib.tests.test_acl) ... ERROR
+gslib.tests.test_autoclass (unittest.loader._FailedTest.gslib.tests.test_autoclass) ... ERROR
+gslib.tests.test_boto_util (unittest.loader._FailedTest.gslib.tests.test_boto_util) ... ERROR
+gslib.tests.test_bucketconfig (unittest.loader._FailedTest.gslib.tests.test_bucketconfig) ... ERROR
+gslib.tests.test_bucketpolicyonly (unittest.loader._FailedTest.gslib.tests.test_bucketpolicyonly) ... ERROR
+gslib.tests.test_cat (unittest.loader._FailedTest.gslib.tests.test_cat) ... ERROR
+gslib.tests.test_cloud_api_delegator (unittest.loader._FailedTest.gslib.tests.test_cloud_api_delegator) ... ERROR
+gslib.tests.test_command (unittest.loader._FailedTest.gslib.tests.test_command) ... ERROR
+gslib.tests.test_command_runner (unittest.loader._FailedTest.gslib.tests.test_command_runner) ... ERROR
+gslib.tests.test_compose (unittest.loader._FailedTest.gslib.tests.test_compose) ... ERROR
+gslib.tests.test_context_config (unittest.loader._FailedTest.gslib.tests.test_context_config) ... ERROR
+gslib.tests.test_copy_helper_funcs (unittest.loader._FailedTest.gslib.tests.test_copy_helper_funcs) ... ERROR
+gslib.tests.test_copy_objects_iterator (unittest.loader._FailedTest.gslib.tests.test_copy_objects_iterator) ... ERROR
+gslib.tests.test_cors (unittest.loader._FailedTest.gslib.tests.test_cors) ... ERROR
+gslib.tests.test_cp (unittest.loader._FailedTest.gslib.tests.test_cp) ... ERROR
+gslib.tests.test_creds_config (unittest.loader._FailedTest.gslib.tests.test_creds_config) ... ERROR
+gslib.tests.test_daisy_chain_wrapper (unittest.loader._FailedTest.gslib.tests.test_daisy_chain_wrapper) ... ERROR
+gslib.tests.test_defacl (unittest.loader._FailedTest.gslib.tests.test_defacl) ... ERROR
+gslib.tests.test_defstorageclass (unittest.loader._FailedTest.gslib.tests.test_defstorageclass) ... ERROR
+gslib.tests.test_du (unittest.loader._FailedTest.gslib.tests.test_du) ... ERROR
+gslib.tests.test_encryption_helper (unittest.loader._FailedTest.gslib.tests.test_encryption_helper) ... ERROR
+gslib.tests.test_execution_util (unittest.loader._FailedTest.gslib.tests.test_execution_util) ... ERROR
+gslib.tests.test_file_part (unittest.loader._FailedTest.gslib.tests.test_file_part) ... ERROR
+gslib.tests.test_gcs_json_api (unittest.loader._FailedTest.gslib.tests.test_gcs_json_api) ... ERROR
+gslib.tests.test_gcs_json_credentials (unittest.loader._FailedTest.gslib.tests.test_gcs_json_credentials) ... ERROR
+gslib.tests.test_gcs_json_media (unittest.loader._FailedTest.gslib.tests.test_gcs_json_media) ... ERROR
+gslib.tests.test_gsutil (unittest.loader._FailedTest.gslib.tests.test_gsutil) ... ERROR
+gslib.tests.test_hash (unittest.loader._FailedTest.gslib.tests.test_hash) ... ERROR
+gslib.tests.test_hashing_helper (unittest.loader._FailedTest.gslib.tests.test_hashing_helper) ... ERROR
+gslib.tests.test_help (unittest.loader._FailedTest.gslib.tests.test_help) ... ERROR
+gslib.tests.test_hmac (unittest.loader._FailedTest.gslib.tests.test_hmac) ... ERROR
+gslib.tests.test_iam (unittest.loader._FailedTest.gslib.tests.test_iam) ... ERROR
+gslib.tests.test_kms (unittest.loader._FailedTest.gslib.tests.test_kms) ... ERROR
+gslib.tests.test_label (unittest.loader._FailedTest.gslib.tests.test_label) ... ERROR
+gslib.tests.test_lifecycle (unittest.loader._FailedTest.gslib.tests.test_lifecycle) ... ERROR
+gslib.tests.test_logging (unittest.loader._FailedTest.gslib.tests.test_logging) ... ERROR
+gslib.tests.test_ls (unittest.loader._FailedTest.gslib.tests.test_ls) ... ERROR
+gslib.tests.test_mb (unittest.loader._FailedTest.gslib.tests.test_mb) ... ERROR
+gslib.tests.test_metrics (unittest.loader._FailedTest.gslib.tests.test_metrics) ... ERROR
+gslib.tests.test_mtls (unittest.loader._FailedTest.gslib.tests.test_mtls) ... ERROR
+gslib.tests.test_mv (unittest.loader._FailedTest.gslib.tests.test_mv) ... ERROR
+gslib.tests.test_naming (unittest.loader._FailedTest.gslib.tests.test_naming) ... ERROR
+gslib.tests.test_notification (unittest.loader._FailedTest.gslib.tests.test_notification) ... ERROR
+gslib.tests.test_notification_pubsub (unittest.loader._FailedTest.gslib.tests.test_notification_pubsub) ... ERROR
+gslib.tests.test_pap (unittest.loader._FailedTest.gslib.tests.test_pap) ... ERROR
+gslib.tests.test_parallel_cp (unittest.loader._FailedTest.gslib.tests.test_parallel_cp) ... ERROR
+gslib.tests.test_parallelism_framework (unittest.loader._FailedTest.gslib.tests.test_parallelism_framework) ... ERROR
+gslib.tests.test_perfdiag (unittest.loader._FailedTest.gslib.tests.test_perfdiag) ... ERROR
+gslib.tests.test_plurality_checkable_iterator (unittest.loader._FailedTest.gslib.tests.test_plurality_checkable_iterator) ... ERROR
+gslib.tests.test_posix_util (unittest.loader._FailedTest.gslib.tests.test_posix_util) ... ERROR
+gslib.tests.test_psc (unittest.loader._FailedTest.gslib.tests.test_psc) ... ERROR
+gslib.tests.test_rb (unittest.loader._FailedTest.gslib.tests.test_rb) ... ERROR
+gslib.tests.test_requester_pays (unittest.loader._FailedTest.gslib.tests.test_requester_pays) ... ERROR
+gslib.tests.test_resumable_streaming (unittest.loader._FailedTest.gslib.tests.test_resumable_streaming) ... ERROR
+gslib.tests.test_retention (unittest.loader._FailedTest.gslib.tests.test_retention) ... ERROR
+gslib.tests.test_retention_util (unittest.loader._FailedTest.gslib.tests.test_retention_util) ... ERROR
+gslib.tests.test_rewrite (unittest.loader._FailedTest.gslib.tests.test_rewrite) ... ERROR
+gslib.tests.test_rm (unittest.loader._FailedTest.gslib.tests.test_rm) ... ERROR
+gslib.tests.test_rpo (unittest.loader._FailedTest.gslib.tests.test_rpo) ... ERROR
+gslib.tests.test_rsync (unittest.loader._FailedTest.gslib.tests.test_rsync) ... ERROR
+gslib.tests.test_rsync_funcs (unittest.loader._FailedTest.gslib.tests.test_rsync_funcs) ... ERROR
+gslib.tests.test_seek_ahead_thread (unittest.loader._FailedTest.gslib.tests.test_seek_ahead_thread) ... ERROR
+gslib.tests.test_setmeta (unittest.loader._FailedTest.gslib.tests.test_setmeta) ... ERROR
+gslib.tests.test_shim_util (unittest.loader._FailedTest.gslib.tests.test_shim_util) ... ERROR
+gslib.tests.test_signurl (unittest.loader._FailedTest.gslib.tests.test_signurl) ... ERROR
+gslib.tests.test_stat (unittest.loader._FailedTest.gslib.tests.test_stat) ... ERROR
+gslib.tests.test_stet_cp (unittest.loader._FailedTest.gslib.tests.test_stet_cp) ... ERROR
+gslib.tests.test_stet_util (unittest.loader._FailedTest.gslib.tests.test_stet_util) ... ERROR
+gslib.tests.test_storage_url (unittest.loader._FailedTest.gslib.tests.test_storage_url) ... ERROR
+gslib.tests.test_tabcomplete (unittest.loader._FailedTest.gslib.tests.test_tabcomplete) ... ERROR
+gslib.tests.test_temporary_file_util (unittest.loader._FailedTest.gslib.tests.test_temporary_file_util) ... ERROR
+gslib.tests.test_trace (unittest.loader._FailedTest.gslib.tests.test_trace) ... ERROR
+gslib.tests.test_tracker_file (unittest.loader._FailedTest.gslib.tests.test_tracker_file) ... ERROR
+gslib.tests.test_ubla (unittest.loader._FailedTest.gslib.tests.test_ubla) ... ERROR
+gslib.tests.test_ui (unittest.loader._FailedTest.gslib.tests.test_ui) ... ERROR
+gslib.tests.test_update (unittest.loader._FailedTest.gslib.tests.test_update) ... ERROR
+gslib.tests.test_user_agent_helper (unittest.loader._FailedTest.gslib.tests.test_user_agent_helper) ... ERROR
+gslib.tests.test_util (unittest.loader._FailedTest.gslib.tests.test_util) ... ERROR
+gslib.tests.test_versioning (unittest.loader._FailedTest.gslib.tests.test_versioning) ... ERROR
+gslib.tests.test_web (unittest.loader._FailedTest.gslib.tests.test_web) ... ERROR
+gslib.tests.test_wildcard_iterator (unittest.loader._FailedTest.gslib.tests.test_wildcard_iterator) ... ERROR
+gslib.tests.test_wrapped_credentials (unittest.loader._FailedTest.gslib.tests.test_wrapped_credentials) ... ERROR
+gslib.tests.testcase (unittest.loader._FailedTest.gslib.tests.testcase) ... ERROR
+
+======================================================================
+ERROR: gslib.tests.test_Doption (unittest.loader._FailedTest.gslib.tests.test_Doption)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_Doption
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_Doption.py", line 28, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_acl (unittest.loader._FailedTest.gslib.tests.test_acl)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_acl
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_acl.py", line 30, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_autoclass (unittest.loader._FailedTest.gslib.tests.test_autoclass)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_autoclass
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_autoclass.py", line 21, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_boto_util (unittest.loader._FailedTest.gslib.tests.test_boto_util)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_boto_util
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_boto_util.py", line 26, in <module>
+    from gslib.tests import testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_bucketconfig (unittest.loader._FailedTest.gslib.tests.test_bucketconfig)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_bucketconfig
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_bucketconfig.py", line 23, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_bucketpolicyonly (unittest.loader._FailedTest.gslib.tests.test_bucketpolicyonly)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_bucketpolicyonly
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_bucketpolicyonly.py", line 21, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_cat (unittest.loader._FailedTest.gslib.tests.test_cat)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_cat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_cat.py", line 27, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_cloud_api_delegator (unittest.loader._FailedTest.gslib.tests.test_cloud_api_delegator)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_cloud_api_delegator
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_cloud_api_delegator.py", line 26, in <module>
+    from gslib.tests import testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_command (unittest.loader._FailedTest.gslib.tests.test_command)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_command
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_command.py", line 25, in <module>
+    from gslib.tests import testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_command_runner (unittest.loader._FailedTest.gslib.tests.test_command_runner)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_command_runner
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_command_runner.py", line 44, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_compose (unittest.loader._FailedTest.gslib.tests.test_compose)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_compose
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_compose.py", line 27, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_context_config (unittest.loader._FailedTest.gslib.tests.test_context_config)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_context_config
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_context_config.py", line 31, in <module>
+    from gslib.tests import testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_copy_helper_funcs (unittest.loader._FailedTest.gslib.tests.test_copy_helper_funcs)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_copy_helper_funcs
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_copy_helper_funcs.py", line 43, in <module>
+    from gslib.tests.testcase.unit_testcase import GsUtilUnitTestCase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_copy_objects_iterator (unittest.loader._FailedTest.gslib.tests.test_copy_objects_iterator)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_copy_objects_iterator
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_copy_objects_iterator.py", line 27, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_cors (unittest.loader._FailedTest.gslib.tests.test_cors)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_cors
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_cors.py", line 26, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_cp (unittest.loader._FailedTest.gslib.tests.test_cp)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_cp
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_cp.py", line 64, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_creds_config (unittest.loader._FailedTest.gslib.tests.test_creds_config)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_creds_config
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_creds_config.py", line 32, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_daisy_chain_wrapper (unittest.loader._FailedTest.gslib.tests.test_daisy_chain_wrapper)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_daisy_chain_wrapper
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_daisy_chain_wrapper.py", line 30, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_defacl (unittest.loader._FailedTest.gslib.tests.test_defacl)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_defacl
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_defacl.py", line 28, in <module>
+    import gslib.tests.testcase as case
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_defstorageclass (unittest.loader._FailedTest.gslib.tests.test_defstorageclass)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_defstorageclass
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_defstorageclass.py", line 25, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_du (unittest.loader._FailedTest.gslib.tests.test_du)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_du
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_du.py", line 24, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_encryption_helper (unittest.loader._FailedTest.gslib.tests.test_encryption_helper)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_encryption_helper
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_encryption_helper.py", line 28, in <module>
+    from gslib.tests.testcase.unit_testcase import GsUtilUnitTestCase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_execution_util (unittest.loader._FailedTest.gslib.tests.test_execution_util)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_execution_util
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_execution_util.py", line 26, in <module>
+    from gslib.tests import testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_file_part (unittest.loader._FailedTest.gslib.tests.test_file_part)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_file_part
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_file_part.py", line 25, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_gcs_json_api (unittest.loader._FailedTest.gslib.tests.test_gcs_json_api)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_gcs_json_api
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_gcs_json_api.py", line 25, in <module>
+    from gslib.tests import testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_gcs_json_credentials (unittest.loader._FailedTest.gslib.tests.test_gcs_json_credentials)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_gcs_json_credentials
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_gcs_json_credentials.py", line 28, in <module>
+    from gslib.tests import testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_gcs_json_media (unittest.loader._FailedTest.gslib.tests.test_gcs_json_media)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_gcs_json_media
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_gcs_json_media.py", line 33, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_gsutil (unittest.loader._FailedTest.gslib.tests.test_gsutil)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_gsutil
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_gsutil.py", line 30, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_hash (unittest.loader._FailedTest.gslib.tests.test_hash)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_hash
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_hash.py", line 26, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_hashing_helper (unittest.loader._FailedTest.gslib.tests.test_hashing_helper)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_hashing_helper
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_hashing_helper.py", line 29, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_help (unittest.loader._FailedTest.gslib.tests.test_help)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_help
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_help.py", line 30, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_hmac (unittest.loader._FailedTest.gslib.tests.test_hmac)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_hmac
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_hmac.py", line 27, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_iam (unittest.loader._FailedTest.gslib.tests.test_iam)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_iam
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_iam.py", line 30, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_kms (unittest.loader._FailedTest.gslib.tests.test_kms)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_kms
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_kms.py", line 28, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_label (unittest.loader._FailedTest.gslib.tests.test_label)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_label
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_label.py", line 33, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_lifecycle (unittest.loader._FailedTest.gslib.tests.test_lifecycle)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_lifecycle
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_lifecycle.py", line 29, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_logging (unittest.loader._FailedTest.gslib.tests.test_logging)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_logging
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_logging.py", line 22, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_ls (unittest.loader._FailedTest.gslib.tests.test_ls)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_ls
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_ls.py", line 35, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_mb (unittest.loader._FailedTest.gslib.tests.test_mb)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_mb
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_mb.py", line 26, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_metrics (unittest.loader._FailedTest.gslib.tests.test_metrics)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_metrics
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_metrics.py", line 46, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_mtls (unittest.loader._FailedTest.gslib.tests.test_mtls)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_mtls
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_mtls.py", line 24, in <module>
+    from gslib.tests import testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_mv (unittest.loader._FailedTest.gslib.tests.test_mv)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_mv
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_mv.py", line 25, in <module>
+    from gslib.tests.test_cp import TestCpMvPOSIXBucketToLocalErrors
+  File "/workspace/app/gslib/tests/test_cp.py", line 64, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_naming (unittest.loader._FailedTest.gslib.tests.test_naming)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_naming
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_naming.py", line 49, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_notification (unittest.loader._FailedTest.gslib.tests.test_notification)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_notification
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_notification.py", line 29, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_notification_pubsub (unittest.loader._FailedTest.gslib.tests.test_notification_pubsub)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_notification_pubsub
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_notification_pubsub.py", line 28, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_pap (unittest.loader._FailedTest.gslib.tests.test_pap)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_pap
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_pap.py", line 19, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_parallel_cp (unittest.loader._FailedTest.gslib.tests.test_parallel_cp)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_parallel_cp
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_parallel_cp.py", line 42, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_parallelism_framework (unittest.loader._FailedTest.gslib.tests.test_parallelism_framework)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_parallelism_framework
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_parallelism_framework.py", line 48, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_perfdiag (unittest.loader._FailedTest.gslib.tests.test_perfdiag)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_perfdiag
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_perfdiag.py", line 30, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_plurality_checkable_iterator (unittest.loader._FailedTest.gslib.tests.test_plurality_checkable_iterator)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_plurality_checkable_iterator
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_plurality_checkable_iterator.py", line 35, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_posix_util (unittest.loader._FailedTest.gslib.tests.test_posix_util)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_posix_util
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_posix_util.py", line 24, in <module>
+    from gslib.tests import testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_psc (unittest.loader._FailedTest.gslib.tests.test_psc)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_psc
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_psc.py", line 25, in <module>
+    from gslib.tests import testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_rb (unittest.loader._FailedTest.gslib.tests.test_rb)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_rb
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_rb.py", line 22, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_requester_pays (unittest.loader._FailedTest.gslib.tests.test_requester_pays)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_requester_pays
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_requester_pays.py", line 24, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_resumable_streaming (unittest.loader._FailedTest.gslib.tests.test_resumable_streaming)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_resumable_streaming
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_resumable_streaming.py", line 29, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_retention (unittest.loader._FailedTest.gslib.tests.test_retention)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_retention
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_retention.py", line 22, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_retention_util (unittest.loader._FailedTest.gslib.tests.test_retention_util)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_retention_util
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_retention_util.py", line 19, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_rewrite (unittest.loader._FailedTest.gslib.tests.test_rewrite)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_rewrite
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_rewrite.py", line 37, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_rm (unittest.loader._FailedTest.gslib.tests.test_rm)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_rm
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_rm.py", line 29, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_rpo (unittest.loader._FailedTest.gslib.tests.test_rpo)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_rpo
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_rpo.py", line 26, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_rsync (unittest.loader._FailedTest.gslib.tests.test_rsync)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_rsync
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_rsync.py", line 32, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_rsync_funcs (unittest.loader._FailedTest.gslib.tests.test_rsync_funcs)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_rsync_funcs
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_rsync_funcs.py", line 27, in <module>
+    from gslib.tests.testcase.unit_testcase import GsUtilUnitTestCase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_seek_ahead_thread (unittest.loader._FailedTest.gslib.tests.test_seek_ahead_thread)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_seek_ahead_thread
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_seek_ahead_thread.py", line 31, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_setmeta (unittest.loader._FailedTest.gslib.tests.test_setmeta)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_setmeta
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_setmeta.py", line 30, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_shim_util (unittest.loader._FailedTest.gslib.tests.test_shim_util)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_shim_util
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_shim_util.py", line 36, in <module>
+    from gslib.commands import test
+  File "/workspace/app/gslib/commands/test.py", line 43, in <module>
+    from gslib.tests.util import GetTestNames
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_signurl (unittest.loader._FailedTest.gslib.tests.test_signurl)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_signurl
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_signurl.py", line 36, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_stat (unittest.loader._FailedTest.gslib.tests.test_stat)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_stat
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_stat.py", line 24, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_stet_cp (unittest.loader._FailedTest.gslib.tests.test_stet_cp)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_stet_cp
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_stet_cp.py", line 28, in <module>
+    from gslib.tests import testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_stet_util (unittest.loader._FailedTest.gslib.tests.test_stet_util)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_stet_util
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_stet_util.py", line 26, in <module>
+    from gslib.tests import testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_storage_url (unittest.loader._FailedTest.gslib.tests.test_storage_url)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_storage_url
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_storage_url.py", line 28, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_tabcomplete (unittest.loader._FailedTest.gslib.tests.test_tabcomplete)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_tabcomplete
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_tabcomplete.py", line 30, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_temporary_file_util (unittest.loader._FailedTest.gslib.tests.test_temporary_file_util)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_temporary_file_util
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_temporary_file_util.py", line 23, in <module>
+    from gslib.tests import testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_trace (unittest.loader._FailedTest.gslib.tests.test_trace)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_trace
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_trace.py", line 23, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_tracker_file (unittest.loader._FailedTest.gslib.tests.test_tracker_file)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_tracker_file
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_tracker_file.py", line 32, in <module>
+    from gslib.tests.testcase.unit_testcase import GsUtilUnitTestCase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_ubla (unittest.loader._FailedTest.gslib.tests.test_ubla)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_ubla
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_ubla.py", line 21, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_ui (unittest.loader._FailedTest.gslib.tests.test_ui)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_ui
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_ui.py", line 40, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_update (unittest.loader._FailedTest.gslib.tests.test_update)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_update
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_update.py", line 38, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_user_agent_helper (unittest.loader._FailedTest.gslib.tests.test_user_agent_helper)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_user_agent_helper
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_user_agent_helper.py", line 19, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_util (unittest.loader._FailedTest.gslib.tests.test_util)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_util
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_util.py", line 36, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_versioning (unittest.loader._FailedTest.gslib.tests.test_versioning)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_versioning
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_versioning.py", line 22, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_web (unittest.loader._FailedTest.gslib.tests.test_web)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_web
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_web.py", line 27, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_wildcard_iterator (unittest.loader._FailedTest.gslib.tests.test_wildcard_iterator)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_wildcard_iterator
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_wildcard_iterator.py", line 37, in <module>
+    import gslib.tests.testcase as testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.test_wrapped_credentials (unittest.loader._FailedTest.gslib.tests.test_wrapped_credentials)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.test_wrapped_credentials
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 419, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/test_wrapped_credentials.py", line 26, in <module>
+    from gslib.tests import testcase
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+======================================================================
+ERROR: gslib.tests.testcase (unittest.loader._FailedTest.gslib.tests.testcase)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: gslib.tests.testcase
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 452, in _find_test_path
+    package = self._get_module_from_name(name)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/unittest/loader.py", line 362, in _get_module_from_name
+    __import__(name)
+  File "/workspace/app/gslib/tests/testcase/__init__.py", line 22, in <module>
+    from gslib.tests.testcase.integration_testcase import GsUtilIntegrationTestCase
+  File "/workspace/app/gslib/tests/testcase/integration_testcase.py", line 50, in <module>
+    from gslib.tests.testcase import base
+  File "/workspace/app/gslib/tests/testcase/base.py", line 32, in <module>
+    import gslib.tests.util as util
+  File "/workspace/app/gslib/tests/util.py", line 46, in <module>
+    import mock_storage_service  # From boto/tests/integration/s3
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mock_storage_service'
+
+
+----------------------------------------------------------------------
+Ran 84 tests in 0.005s
+
+FAILED (errors=84)
