@@ -8,7 +8,7 @@ cd /workspace
 run_all_tests() {
   echo "Running all tests..."
   set +e
-  PYTHONPATH=app ./run_tests.py
+  PYTHONPATH=app python -m unittest discover -s app/gslib/tests -t app -p 'test_*.py' -v
   TEST_EXIT_CODE=$?
   set -e
   echo "Test run exited with code ${TEST_EXIT_CODE}"
@@ -19,7 +19,7 @@ run_selected_tests() {
   local test_files=("$@")
   echo "Running selected tests: ${test_files[@]}"
   set +e
-  PYTHONPATH=app ./run_tests.py "${test_files[@]}"
+  PYTHONPATH=app python -m unittest -v "${test_files[@]}"
   TEST_EXIT_CODE=$?
   set -e
   echo "Test run exited with code ${TEST_EXIT_CODE}"
