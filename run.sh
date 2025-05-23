@@ -6,18 +6,14 @@ set -e
 # Replace this with your command to run all tests
 run_all_tests() {
   echo "Running all tests..."
-  # Example: pytest tests/
-  # TODO: Replace with your command to run all tests
-  # Your command here
+  python -m unittest discover -s /app/gslib/tests -p 'test_*.py' -v
 }
 
 # Replace this with your command to run specific test files
 run_selected_tests() {
   local test_files=("$@")
   echo "Running selected tests: ${test_files[@]}"
-  # Example: pytest "${test_files[@]}"
-  # TODO: Replace with your command to run specific test files
-  # <Your command here>
+  python -m unittest -v "${test_files[@]}"
 }
 # --- END CONFIGURATION SECTION ---
 
